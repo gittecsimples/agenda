@@ -78,7 +78,7 @@
                     Laravel
                 </div>
                 <div class="title m-b-md">
-                    Vai Safadão kkkkkkkkkkkkkkkkkk
+                    Vai Safadão <br> kkkkkkkkkkkkkkkkkk
                 </div>
 
                 <div class="links">
